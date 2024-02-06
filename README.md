@@ -1,6 +1,7 @@
 This repo contains the code and results for project 2 for ECE 219 Winter 2024. 
 
-Code is separated into four parts: \n
+Code is separated into four parts:
+
 Question 1~ 9 
 
 Question 10~17
